@@ -1,6 +1,5 @@
 import chalk from "chalk";
 
-console.log("aura")
 const texto = "salve seu gordura pura";
 const palavras = texto.split(" ");
 const coresArcoIris = [
